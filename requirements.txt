@@ -1,0 +1,28 @@
+# --- Core data / ML ---
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+
+# --- NLP preprocessing ---
+nltk>=3.8
+spacy>=3.7
+
+# --- Transformer fine-tuning (DistilBERT, local) ---
+torch>=2.1
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.30
+evaluate>=0.4
+
+# --- Azure AI Foundry (prompt engineering) ---
+openai>=1.30
+python-dotenv>=1.0
+
+# --- Demo ---
+gradio>=4.0
+
+# --- Notebooks ---
+jupyter>=1.0
+ipywidgets>=8.0

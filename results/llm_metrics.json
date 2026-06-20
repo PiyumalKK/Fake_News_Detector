@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.868421052631579,
+  "precision": 0.8076923076923077,
+  "recall": 1.0,
+  "f1": 0.8936170212765957,
+  "strategy": "chain_of_thought",
+  "skipped": 2
+}

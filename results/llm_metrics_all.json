@@ -1,0 +1,26 @@
+{
+  "zero_shot": {
+    "accuracy": 0.7631578947368421,
+    "precision": 0.7,
+    "recall": 1.0,
+    "f1": 0.8235294117647058,
+    "answered": 38,
+    "skipped": 2
+  },
+  "few_shot": {
+    "accuracy": 0.7567567567567568,
+    "precision": 0.7,
+    "recall": 1.0,
+    "f1": 0.8235294117647058,
+    "answered": 37,
+    "skipped": 3
+  },
+  "chain_of_thought": {
+    "accuracy": 0.868421052631579,
+    "precision": 0.8076923076923077,
+    "recall": 1.0,
+    "f1": 0.8936170212765957,
+    "answered": 38,
+    "skipped": 2
+  }
+}

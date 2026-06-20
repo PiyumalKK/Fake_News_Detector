@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Data & model artifacts (large)
+data/
+results/models/
+*.pt
+*.bin
+*.safetensors
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Local report (not pushed)
+report.html
+
+# OS
+.DS_Store
+Thumbs.db
