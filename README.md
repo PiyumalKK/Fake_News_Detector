@@ -54,18 +54,6 @@ FakeNewsDetection/
 └── results/                  ← saved metrics, plots, models
 ```
 
----
-
-## 4-week plan
-
-| Week | Goal |
-|------|------|
-| 1 | Data + NLP preprocessing + classic ML baseline |
-| 2 | DistilBERT fine-tuning + Foundry prompt engineering |
-| 3 | Evaluation comparison + Gradio demo |
-| 4 | Report (max 20 pages) + 5-min video |
-
----
 
 ## Setup (one time)
 
